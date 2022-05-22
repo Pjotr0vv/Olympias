@@ -1,0 +1,8 @@
+[tool.poetry]
+name = "olympias"
+version = "0.1.0"
+description = "Olympias is a clustered bot launcher made for newer versions of Discord.py"
+license = "MIT"
+authors= ["Pjotr <Pjoottr@gmail.com>"]
+maintainers = []
+readme = "README.md"
